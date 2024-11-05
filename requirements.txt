@@ -1,0 +1,5 @@
+langchain
+langsmith
+openai
+python-dotenv
+ipykernel
